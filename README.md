@@ -1,3 +1,3 @@
 # Supercollider "Live To Tell"
 
-Basic track using a Madonna's "Live To Tell" sample.
+Basic track using a sample from "Live To Tell" by Madonna.
